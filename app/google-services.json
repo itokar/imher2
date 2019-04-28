@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726547535693",
+    "firebase_url": "https://imher2.firebaseio.com",
+    "project_id": "imher2",
+    "storage_bucket": "imher2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726547535693:android:fead4cbfa7c7fde3",
+        "android_client_info": {
+          "package_name": "com.example.imher2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726547535693-ponn32fbedl905l00bn282bqq5m14h50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imher2",
+            "certificate_hash": "ac8c4885b944a70f9ada0de748e63f01e95d7060"
+          }
+        },
+        {
+          "client_id": "726547535693-0v3tt3on9iuoiiv11tl47fhs8mvuslfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkcymLcsxhrF3_nltxKbsNQfu412clOqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726547535693-0v3tt3on9iuoiiv11tl47fhs8mvuslfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
